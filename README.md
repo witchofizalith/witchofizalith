@@ -1,6 +1,6 @@
 - I’m @witchofizalith, a neuroscientist. 
-- I’m currently learning (more) R & Python, and how to apply these languages to the study of the brain. 
-- You can reach me @magalhaesneuro on twitter!
+- I’m currently using R & Python to model emotional learning & decision-making during adolescence, and the neural circuit activity that underlies this process. 
+- You can reach me @magalhaesneuro on bluesky!
 
 <!---
 witchofizalith/witchofizalith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
