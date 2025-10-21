@@ -1,4 +1,4 @@
-- I’m @witchofizalith, a neuroscientist. 
+- I’m @witchofizalith, a data-driven neuroscientist. 
 - I’m currently using R & Python to model emotional learning & decision-making during adolescence, and the neural circuit activity that underlies this process. 
 - You can reach me @magalhaesneuro on bluesky!
 
