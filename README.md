@@ -1,6 +1,6 @@
-- I’m @witchofizalith, a data-driven neuroscientist. 
-- I’m currently using R & Python to model emotional learning & decision-making during adolescence, and the neural circuit activity that underlies this process. 
-- You can reach me @magalhaesneuro on bluesky!
+- I’m @witchofizalith. 
+- I explore differences in decision-making across the lifespan and how that relates to developmental differences in prefrontal neural circuit during adolescence vs during adulthood. 
+- That's it.
 
 <!---
 witchofizalith/witchofizalith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
